@@ -1,8 +1,0 @@
-.naam1{
-    display: flex;
-    flex-direction: column;
-    width: 400px;
-    line-height: 4px;
-    border: 3px solid black;
-    border-radius: 10px;
-}
